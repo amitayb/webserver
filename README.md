@@ -1,6 +1,6 @@
-# webserver
-# This is a Simple Web server that listen to address and port given, send GET request to given address in argv.
-# Request will be sent after connecting to server from any client and Answer will be returned to client.
+# WebServer
+## This is a Simple Web server that listen to address and port given, send GET request to given address in argv.
+## Request will be sent after connecting to server from any client and Answer will be returned to client.
 
 
 # How to compile
